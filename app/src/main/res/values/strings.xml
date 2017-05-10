@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskFSM</string>
+    <string name="btn_lock">LOCK</string>
+    <string name="btn_lock2">LOCK2</string>
+    <string name="btn_unlock">UNLOCK</string>
+    <string name="btn_unlock2">UNLOCK2</string>
+</resources>
